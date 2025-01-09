@@ -9,3 +9,8 @@
 ```
 https://testcontainers.com/guides/introducing-testcontainers/
 ```
+
+
+
+### 데이터 웨어하우스 구축하기
+- https://joshua-data.medium.com/data-modeling-with-activation-388ab7c5dcc1
