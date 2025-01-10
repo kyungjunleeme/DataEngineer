@@ -14,3 +14,7 @@ https://testcontainers.com/guides/introducing-testcontainers/
 
 ### 데이터 웨어하우스 구축하기
 - https://joshua-data.medium.com/data-modeling-with-activation-388ab7c5dcc1
+
+
+개발자는 트랙레코드로 증명하는 것이다.
+- https://imksh.com/129
