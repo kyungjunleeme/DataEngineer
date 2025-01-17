@@ -18,3 +18,6 @@ https://testcontainers.com/guides/introducing-testcontainers/
 
 개발자는 트랙레코드로 증명하는 것이다.
 - https://imksh.com/129
+
+A/B 테스트
+- https://kukim.tistory.com/206  # 글 내 영상 및 정리 필요
