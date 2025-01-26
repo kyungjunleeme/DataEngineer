@@ -22,3 +22,7 @@ https://testcontainers.com/guides/introducing-testcontainers/
 A/B 테스트
 - https://kukim.tistory.com/206  # 글 내 영상 및 정리 필요
 - https://www.youtube.com/watch?v=mKf1kvWXiPY
+
+
+COW
+- https://hoony-612.tistory.com/90
