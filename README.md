@@ -26,3 +26,6 @@ A/B 테스트
 
 COW
 - https://hoony-612.tistory.com/90
+
+MSK
+- https://aws.amazon.com/blogs/big-data/category/analytics/amazon-managed-streaming-for-apache-kafka/
