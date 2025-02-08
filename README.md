@@ -12,8 +12,12 @@ https://testcontainers.com/guides/introducing-testcontainers/
 
 포트폴리오 주제: https://www.youtube.com/watch?v=qMkV5qeOnfg
 
+the-world-beyond-batch-streaming-101: 
+- https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
+- https://www.oreilly.com/radar/the-world-beyond-batch-streaming-102/
+- https://docs.google.com/presentation/d/10vs2PnjynYMtDpwFsqmSePtMnfJirCkXcHZ1SkwDg-s/present?slide=id.g63ca2a7cd_0_527
 
-
+  
 ### 데이터 웨어하우스 구축하기
 - https://joshua-data.medium.com/data-modeling-with-activation-388ab7c5dcc1
 
