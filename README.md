@@ -9,6 +9,9 @@
 ```
 https://testcontainers.com/guides/introducing-testcontainers/
 ```
+pandas 관련 오류
+- Error tokenizing data. C error: EOF inside string starting at row 0
+
 
 포트폴리오 주제: https://www.youtube.com/watch?v=qMkV5qeOnfg
 
@@ -32,7 +35,6 @@ A/B 테스트
 인프라 구성
 - https://jsyeo.tistory.com/entry/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-public-cloudAWS-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?category=1217581
 - https://hadoop.apache.org/docs/current/hadoop-aws/tools/hadoop-aws/committers.html#The_Magic_Committer
-
 
 
 COW
