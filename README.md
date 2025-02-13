@@ -37,8 +37,13 @@ A/B 테스트
 - https://hadoop.apache.org/docs/current/hadoop-aws/tools/hadoop-aws/committers.html#The_Magic_Committer
 
 
+
+
 COW
 - https://hoony-612.tistory.com/90
 
 MSK
 - https://aws.amazon.com/blogs/big-data/category/analytics/amazon-managed-streaming-for-apache-kafka/
+
+데이터 민주화
+- 당근페이
