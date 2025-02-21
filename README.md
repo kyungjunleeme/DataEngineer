@@ -1,4 +1,5 @@
 # DataEngineer
+https://www.youtube.com/watch?v=1Viu7Ce632s
 
 ```
 • 데이터 엔지니어가 일반적으로 사용하는 여러 포멧의 데이터 파일의 입출력을 처리하는 과정을 검증합니다.
