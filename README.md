@@ -38,7 +38,8 @@ A/B 테스트
 - https://hadoop.apache.org/docs/current/hadoop-aws/tools/hadoop-aws/committers.html#The_Magic_Committer
 
 
-
+자격증
+- https://www.deeplearning.ai/courses/data-engineering/
 
 COW
 - https://hoony-612.tistory.com/90
