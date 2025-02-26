@@ -1,3 +1,8 @@
+트러블 슈팅
+- 메모리 / 데이터 파이프라인
+- https://developer-hm.tistory.com/16 # caching_sha2_password
+- 
+
 # DataEngineer
 https://www.youtube.com/watch?v=1Viu7Ce632s
 
