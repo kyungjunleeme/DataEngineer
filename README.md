@@ -60,4 +60,7 @@ MSK
 데이터 민주화
 - 당근페이
 
+github 추세 검사
+- https://github.com/topics/data-processing
+
   
