@@ -47,9 +47,10 @@ A/B 테스트
 - https://hadoop.apache.org/docs/current/hadoop-aws/tools/hadoop-aws/committers.html#The_Magic_Committer
 
 
-자격증
+자격증 및 수업 
 - https://www.deeplearning.ai/courses/data-engineering/
-
+- https://www.coursera.org/professional-certificates/ibm-data-engineer?&utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_ibm-data-engineer_ibm_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s1_all_m_hyb_24-11_x&campaignid=21883311354&adgroupid=170359951379&device=c&keyword=ibm%20data%20engineering&matchtype=p&network=g&devicemodel=&creativeid=720456461667&assetgroupid=&targetid=kwd-1870263427174&extensionid=&placement=&gad_source=1&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAhVCczPPvmvf6eip-rzHZrMmQTxatKk2JzKwcA3xvjWAg_gLlurqIoaAnROEALw_wcB
+- 
 COW
 - https://hoony-612.tistory.com/90
 
@@ -58,3 +59,5 @@ MSK
 
 데이터 민주화
 - 당근페이
+
+  
