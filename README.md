@@ -15,6 +15,23 @@ https://www.youtube.com/watch?v=1Viu7Ce632s
 • 실무에서 만나게 되는 다양한 구조의 데이터를 가치있게 활용 할 수 있는 형태의 자료구조로 변환 처리하는 역량을 검증합니다.
 • 실무에서 만나게 되는 데이터 오류나 예외 상황에 따른 데이터 처리 경험을 검증합니다.
 ```
+자주 하는 실수
+```
+Common mistakes that junior data engineers typically make:
+
+➡️ Messing up with data formats that slow down SQL queries (string instead of integers, dates, etc)
+
+➡️ Assuming data is accurate by thinking of data quality checks after having the data pipeline in production. The same goes for unit tests.
+
+➡️ Overthinking the tools to use and wasting time building a super fancy modern data stack whereas SQL and Python may be all you need at first
+
+➡️ Diving in headfirst without thinking of the end-users. The usefulness of your work is tied to your end-user needs. Always ask questions.
+
+➡️ Thinking they can build useful data pipelines without understanding the data first. Talk to the stakeholders!
+
+➡️ Scanning way too much data and not taking data modeling into consideration 
+```
+
 
 ```
 https://testcontainers.com/guides/introducing-testcontainers/
