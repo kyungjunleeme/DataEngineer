@@ -10,6 +10,9 @@ https://github.com/topics/data-processing
 # DataEngineer
 https://www.youtube.com/watch?v=1Viu7Ce632s
 
+# Iceberg
+- https://ibm.github.io/presto-iceberg-lab/
+기출문제
 ```
 • 데이터 엔지니어가 일반적으로 사용하는 여러 포멧의 데이터 파일의 입출력을 처리하는 과정을 검증합니다.
 • 실무에서 만나게 되는 다양한 구조의 데이터를 가치있게 활용 할 수 있는 형태의 자료구조로 변환 처리하는 역량을 검증합니다.
